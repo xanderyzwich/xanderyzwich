@@ -1,0 +1,19 @@
+:root {
+    background-color: #000;
+    text-align: center;
+}
+* {
+    color: #0f0;
+}
+
+::selection{
+    background-color: #0f0;
+    color: #000;
+    font-weight: bold;
+    
+}
+
+h1, h2 {
+    font-weight: bold;
+    color: #fff;
+}
