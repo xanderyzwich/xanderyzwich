@@ -2,11 +2,11 @@
 
 # Who's this guy?
 
-I have a wonderful wife and two amazing kids!  
+I have a wonderful wife and four amazing kids!  
 I love to play with code and learn new things.   
 
 Learn the things nobody else is, and grow constantly  
-End gatekeeping and lift up other developers.way.   
+End gatekeeping and lift up other developers.   
 
 ## What Does He Do?
 
