@@ -17,6 +17,13 @@ End gatekeeping and lift up other developers.
 ![Jet Brains IDE's](https://img.shields.io/badge/JetBrains-IDE's-brightgreen.svg?logo=jetbrains&logoColor=brightgreen&style=flat)
 ![VSCode editor](https://img.shields.io/badge/VSCode-EDITOR-brightgreen.svg?logo=Visual%20Studio%20Code&logoColor=brightgreen&style=flat)  
 
+### Language Stats from public repositories
+Private repository contributions split between Java and JavaScript/Vue
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xanderyzwich&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=xanderyzwich&show_icons=true&theme=dark)
+
 ## Where Is He?
 [![Blog website](https://img.shields.io/badge/My-Blog-brightgreen.svg?logo=eleventy&logoColor=brightgreen&style=flat) ](https://coreydmccarty.dev)
 [![Blog Repository](https://img.shields.io/badge/Blog-Repository-brightgreen.svg?logo=github&logoColor=brightgreen&style=flat)](https://github.com/xanderyzwich/xanderyzwich.github.io)
@@ -27,5 +34,5 @@ End gatekeeping and lift up other developers.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PRO-brightgreen.svg?logo=linkedin&logoColor=brightgreen&style=flat)](https://linkedin.mccarty.dev)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-Excavator-brightgreen.svg?logo=stack%20overflow&logoColor=brightgreen)](https://stackoverflow.com/users/2196988/xander-yzwich)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=xanderyzwich&show_icons=true&theme=dark)
+
 
